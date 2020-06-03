@@ -1,0 +1,11 @@
+.docusaurus
+.vscode
+build/
+node_modules/
+.cache-loader
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log
