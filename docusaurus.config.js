@@ -8,6 +8,10 @@ module.exports = {
     projectName: "documentation",
     themeConfig: {
         disableDarkMode: true,
+        algolia: {
+            apiKey: "f5e503c6b3bb7994f198426a685636af",
+            indexName: "tranzlate"
+        },
         navbar: {
             title: "Tranzlate Documentation",
             logo: {
